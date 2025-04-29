@@ -23,11 +23,6 @@ This project is a simple and effective face anonymization tool built using Pytho
 
 ---
 
-## 🗂️ Project Structure
-
-
----
-
 ## ⚙️ Installation
 
 1. Clone the repository:
